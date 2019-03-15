@@ -1,2 +1,2 @@
 # naive-bayes-classifier
-This code involves creating a Naive Bayes Classifier and evaluating its performance on the given dataset.
+In this code, a Naive Bayes Classifier is created and its performance is evaluated on the given dataset.
